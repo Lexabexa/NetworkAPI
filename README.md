@@ -27,7 +27,8 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 * [Contributing](#contributing)
 * [Questions](#questions)
 * [License](#license)
-
+# Usage
+[Insomnia](https://insomnia.rest/) is used to run this code.
   
 # Contributing
 [UC Berkeley](https://courses.bootcampspot.com/courses/3634/external_tools/249)
